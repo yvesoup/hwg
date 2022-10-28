@@ -1,3 +1,3 @@
 # hwg
-atmospheric game thingy \n /n
+atmospheric game thingy
 hyena game
